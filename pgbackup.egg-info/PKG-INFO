@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pgbackup
+Version: 0.1.0
+Summary: Databse backups locally or to AWS S3
+Home-page: UNKNOWN
+Author: keith
+Author-email: k@l.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
